@@ -5,3 +5,4 @@
 * Nihat Özdemir
 * Suphi Erkin Karaçay
 * Mustafa Asım Altnışık
+<img width="870" alt="Screen Shot 2022-05-13 at 14 49 45" src="https://user-images.githubusercontent.com/75497951/168277549-5854830f-bd7c-48e1-b268-e9ea9f11f464.png">
